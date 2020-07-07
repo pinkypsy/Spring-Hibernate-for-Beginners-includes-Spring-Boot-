@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/02-spring-mvc-5.iml" filepath="$PROJECT_DIR$/.idea/02-spring-mvc-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-adding-data-to-the-spring-model/solution-code-spring-mvc-adding-data-to-the-spring-model.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-adding-data-to-the-spring-model/solution-code-spring-mvc-adding-data-to-the-spring-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-binding-request-params/solution-code-spring-mvc-binding-request-params.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-binding-request-params/solution-code-spring-mvc-binding-request-params.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-controller-level-mappings/solution-code-spring-mvc-controller-level-mappings.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-controller-level-mappings/solution-code-spring-mvc-controller-level-mappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-create-home-controller-and-view/solution-code-spring-mvc-create-home-controller-and-view.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-create-home-controller-and-view/solution-code-spring-mvc-create-home-controller-and-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-form-tags-checkboxes/solution-code-spring-mvc-form-tags-checkboxes.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-form-tags-checkboxes/solution-code-spring-mvc-form-tags-checkboxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-form-tags-drop-down-lists/solution-code-spring-mvc-form-tags-drop-down-lists.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-form-tags-drop-down-lists/solution-code-spring-mvc-form-tags-drop-down-lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-form-tags-radio-buttons/solution-code-spring-mvc-form-tags-radio-buttons.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-form-tags-radio-buttons/solution-code-spring-mvc-form-tags-radio-buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-form-tags-text-fields/solution-code-spring-mvc-form-tags-text-fields.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-form-tags-text-fields/solution-code-spring-mvc-form-tags-text-fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-reading-html-form-data/solution-code-spring-mvc-reading-html-form-data.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-reading-html-form-data/solution-code-spring-mvc-reading-html-form-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-validation-create-custom-validation-rule/solution-code-spring-mvc-validation-create-custom-validation-rule.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-validation-create-custom-validation-rule/solution-code-spring-mvc-validation-create-custom-validation-rule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-validation-handle-strings-for-integer-fields/solution-code-spring-mvc-validation-handle-strings-for-integer-fields.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-validation-handle-strings-for-integer-fields/solution-code-spring-mvc-validation-handle-strings-for-integer-fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-validation-make-integer-fields-required/solution-code-spring-mvc-validation-make-integer-fields-required.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-validation-make-integer-fields-required/solution-code-spring-mvc-validation-make-integer-fields-required.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-validation-number-ranges/solution-code-spring-mvc-validation-number-ranges.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-validation-number-ranges/solution-code-spring-mvc-validation-number-ranges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-validation-regular-expressions/solution-code-spring-mvc-validation-regular-expressions.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-validation-regular-expressions/solution-code-spring-mvc-validation-regular-expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-spring-mvc-validation-required-fields/solution-code-spring-mvc-validation-required-fields.iml" filepath="$PROJECT_DIR$/solution-code-spring-mvc-validation-required-fields/solution-code-spring-mvc-validation-required-fields.iml" />
+    </modules>
+  </component>
+</project>
